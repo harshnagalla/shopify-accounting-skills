@@ -6,10 +6,10 @@ Technical integration guides for building a Shopify accounting platform focused 
 
 | Skill | File | Size | What It Covers |
 |-------|------|------|----------------|
-| **Zoho Inventory** | `zoho-inventory-integration.md` | ~104KB | OAuth 2.0, Items/Orders/Invoices CRUD, India GST fields, Zoho Books sync, multi-warehouse, rate limiting |
-| **Zoho Books** | `zoho-books-integration.md` | ~100KB | Full accounting pipeline, GST tax setup, invoice generation, bank reconciliation, Singapore GST, e-invoicing, TDS/TCS |
-| **Shopify APIs** | `shopify-api-integration.md` | ~110KB | Public app OAuth, order extraction, payout reconciliation, webhooks, Billing API, GraphQL bulk ops, GDPR compliance |
-| **Indian GST Engine** | `indian-gst-compliance.md` | ~133KB | Place of Supply engine, tax rate calculation, GSTIN validation, GSTR-1/3B data prep, e-invoicing (IRP), HSN codes, TCS/TDS |
+| **Zoho Inventory** | `zoho-inventory/SKILL.md` | ~104KB | OAuth 2.0, Items/Orders/Invoices CRUD, India GST fields, Zoho Books sync, multi-warehouse, rate limiting |
+| **Zoho Books** | `zoho-books/SKILL.md` | ~100KB | Full accounting pipeline, GST tax setup, invoice generation, bank reconciliation, Singapore GST, e-invoicing, TDS/TCS |
+| **Shopify APIs** | `shopify-api/SKILL.md` | ~110KB | Public app OAuth, order extraction, payout reconciliation, webhooks, Billing API, GraphQL bulk ops, GDPR compliance |
+| **Indian GST Engine** | `indian-gst/SKILL.md` | ~133KB | Place of Supply engine, tax rate calculation, GSTIN validation, GSTR-1/3B data prep, e-invoicing (IRP), HSN codes, TCS/TDS |
 
 ## Usage with Claude Code / Paperclip
 
