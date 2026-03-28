@@ -1,3 +1,8 @@
+---
+name: zoho-inventory-integration
+description: Integrates Zoho Inventory API into a Shopify accounting platform. Covers OAuth 2.0 authentication for India and global DCs, Items/Sales Orders/Invoices/Purchase Orders CRUD, India GST fields (HSN codes, place of supply, gst_treatment), multi-warehouse transfers, Zoho Books bidirectional sync, pagination, and rate limiting. Use when building or modifying Zoho Inventory integration, syncing Shopify products or orders to Zoho, or handling inventory operations.
+---
+
 # Zoho Inventory Integration Skill
 ## For: Shopify Accounting Platform (India + Singapore)
 ## Version: 1.0 | March 2026

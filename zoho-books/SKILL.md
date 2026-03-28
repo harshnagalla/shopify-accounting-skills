@@ -1,3 +1,8 @@
+---
+name: zoho-books-integration
+description: Integrates Zoho Books API for full accounting operations in a Shopify platform. Covers OAuth 2.0, Contacts, GST-compliant Invoices with CGST/SGST/IGST split, Bills and Expenses, Chart of Accounts setup, Journal Entries, Bank Reconciliation for Shopify payouts, Credit Notes for refunds, India GST tax configuration, Singapore 9% GST with F5 returns, e-invoicing IRN generation, TDS/TCS handling, and multi-currency support. Use when building or modifying Zoho Books accounting integration or Shopify payout reconciliation.
+---
+
 # Zoho Books Integration Skill
 ## For: Shopify Accounting Platform (India + Singapore)
 ## Version: 1.0 | March 2026

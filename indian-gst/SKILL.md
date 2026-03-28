@@ -1,3 +1,8 @@
+---
+name: indian-gst-compliance
+description: Implements the Indian GST and tax compliance engine for a Shopify accounting platform. Covers all 37 state and UT codes, Place of Supply determination under Sections 10/12/13, CGST/SGST/IGST/UTGST tax calculation, GSTIN validation with Luhn mod-36 checksum, Rule 46 invoice generation with 16 mandatory fields, GSTR-1 and GSTR-3B data preparation, e-invoicing with IRP API and IRN generation, HSN code management with 70+ ecommerce codes, TCS/TDS tracking, and ITC engine with GSTR-2B matching. Use when building or modifying GST tax logic, invoice generation, or return filing features.
+---
+
 # Indian GST & Tax Compliance Engine Skill
 ## For: Shopify Accounting Platform
 ## Version: 1.0 | March 2026

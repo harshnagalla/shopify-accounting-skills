@@ -1,3 +1,8 @@
+---
+name: shopify-api-integration
+description: Builds a Shopify Public App for accounting. Covers OAuth 2.0 with all accounting scopes, Order and Transaction data extraction, Shopify Payments payout reconciliation algorithm, webhook implementation with HMAC verification, GraphQL bulk operations for historical sync, Billing API for subscriptions, App Bridge and Polaris embedded UI, GDPR compliance webhooks, and multi-tenant Prisma database schema. Use when building or modifying the Shopify app side of the accounting platform, handling orders, payouts, or webhooks.
+---
+
 # Shopify API Integration Skill
 ## For: Building a Shopify Accounting App (India + Singapore)
 ## Version: 1.0 | March 2026
